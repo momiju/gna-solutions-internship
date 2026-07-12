@@ -1,31 +1,33 @@
 # 🇦🇺 호주 GNA Solutions 인턴십 기록 (2025.06 - 2025.08)
-> **근무 기간:** 2025년 6월 ~ 2025년 8월 (2개월)  
-> **담당 역할:** Development Intern
 
-호주 GNA Solutions에서 2개월 동안 인턴으로 근무했던 경험을 기록했습니다.
+> **근무 기간:** 2025.06 ~ 2025.08 (2개월)  
+> **담당 역할:** Development Intern  
+
+호주 현지 기업인 GNA Solutions에서 2개월간 인턴으로 근무하며 웹 서비스 구축 및 운영 프로세스를 경험한 기록입니다.
 
 ---
 
-## 🚀 무엇을 담당했나요?
-인턴십 기간 동안 워드프레스(WordPress) 기반의 웹 서비스 페이지를 직접 제작하고 수정하는 업무를 맡았습니다. 이 과정에서 디자인 가이드를 반영하고 웹 화면을 다듬는 프론트엔드 작업뿐만 아니라, 이커머스 솔루션(WooCommerce) 관리와 IT 비즈니스 분석 업무까지 폭넓게 경험하며 시야를 넓혔습니다.
+## 🚀 담당 업무
+워드프레스(WordPress) 기반의 이커머스 웹 서비스 페이지 제작 및 유지보수를 담당했습니다. Figma 시안을 반영한 UI 구현을 중심으로, WooCommerce 상품 데이터 관리와 글로벌 시장 리서치 업무를 함께 진행했습니다.
 
-## 🛠️ 사용해 본 기술 스택과 도구들
-- **Web & Design:** WordPress, WooCommerce, HTML5, CSS3, **Figma**, **Canva**
-- **Productivity:** Microsoft PowerPoint
+## 🛠️ 기술 스택 및 도구
+- **Web & CMS:** ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=WordPress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat-square&logo=WooCommerce&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+- **Design:** ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=Figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+- **Productivity:** ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
-## 📌 구체적으로 이런 업무들을 수행하며 성장했습니다!
+## 📌 상세 업무 내용
 
-### 1. WordPress 웹페이지 제작 및 CSS 반응형 레이아웃 수정
-- **디자인 협업과 퍼블리싱:** UI/UX 디자인 도구인 `Figma`를 활용하여 시안을 확인하고, 이를 바탕으로 워드프레스 기반의 웹페이지를 직접 제작 및 수정해 보았습니다.
-- **반응형 웹 구현:** 다양한 모니터와 모바일 화면에서도 깨지지 않도록 `CSS`를 활용해 반응형 레이아웃을 세심하게 조정하는 작업을 진행했습니다.
+### 1. WordPress 웹페이지 제작 및 CSS 반응형 레이아웃 최적화
+- **디자인 퍼블리싱:** UI/UX 디자인 도구인 `Figma` 시안을 기반으로 워드프레스 환경에서 웹페이지를 직접 구축하고 수정했습니다.
+- **반응형 웹 구현:** 다양한 해상도의 모니터와 모바일 환경에서 화면이 깨지지 않도록 `CSS` 미디어 쿼리 및 레이아웃을 세심하게 조정했습니다.
 
-### 2. WooCommerce 상품 등록 및 이커머스 관리
-- **실무 플랫폼 데이터 운영:** `WooCommerce` 솔루션을 이용해 실제 서비스 중인 상품의 가격을 등록하고 카탈로그를 관리하면서, 이커머스 서비스가 어떻게 돌아가는지 실무 프로세스를 직접 경험했습니다.
+### 2. WooCommerce 상품 등록 및 데이터 관리
+- **이커머스 운영:** `WooCommerce` 솔루션을 활용해 상품 가격을 등록하고 카탈로그 데이터를 직접 관리했습니다.
 
-### 3. 글로벌 웹 서비스 리서치 및 시각 자료 제작/발표
-- **트렌드 분석:** 글로벌 시장을 기준으로 어떤 웹 서비스와 마케팅 전략이 트렌드인지 치열하게 조사하고 경쟁사들을 분석했습니다.
-- **Canva를 활용한 시각화 및 발표:** 조사한 내용을 효과적으로 전달하기 위해 `Canva`와 `PowerPoint`를 활용하여 발표 자료를 제작했습니다. 이 자료를 바탕으로 영어로 분석 결과를 발표하며 커뮤니케이션 능력을 키웠습니다.
+### 3. 글로벌 웹 서비스 리서치 및 영문 발표
+- **트렌드 분석:** 글로벌 시장 타겟의 웹 서비스 전략과 경쟁사들의 마케팅 트렌드를 조사·분석했습니다.
+- **시각화 및 발표:** 리서치한 데이터를 `Canva`와 `PowerPoint`로 시각화하여 자료를 제작하고, 팀 내에서 분석 결과를 영어로 발표하며 협업 커뮤니케이션 역량을 키웠습니다.
 
-## 🌱 인턴십을 통해 배우고 느낀 점
-- **디자인 툴 활용과 개발의 연결고리 체득:** `Figma` 시안을 보며 `CSS`로 화면을 구현하고, `Canva`로 필요한 시각 자료를 직접 다듬어보면서 디자이너의 의도를 코드로 효과적으로 녹여내는 방법을 배웠습니다.
-- **짧지만 강렬했던 글로벌 실무 경험:** 호주 현지 기업의 비즈니스 환경을 직접 겪어보며, 단순히 코드만 짜는 것이 아니라 서비스 전체 트렌드를 읽는 눈을 기를 수 있었던 뜻깊은 2개월이었습니다. 이 경험을 발판 삼아 계속해서 성장하는 신입 개발자가 되겠습니다!
+## 🌱 배운 점 및 회고 (Retrospective)
+- **디자인과 개발의 협업 프로세스 이해:** `Figma` 디자인 시안을 실제 코드로 구현하는 과정을 통해, 디자이너의 의도를 화면에 정확하게 녹여내는 프론트엔드 인터페이스 구현 감각을 익혔습니다.
+- **비즈니스 관점의 이해:** 단순 화면 구현을 넘어 이커머스 상품 관리와 시장 분석을 함께 경험하며, 서비스가 실제로 운영되는 전체적인 비즈니스 흐름을 이해하게 되었습니다.
